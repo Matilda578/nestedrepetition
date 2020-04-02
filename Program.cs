@@ -7,11 +7,11 @@ namespace Nested
         static void Main(string[] args)
         {
            int totalloops = 5;  
-         int currentloop, nestedcurrentloop ;  
+         int currentloop, nestedcurrentloop ;
          for (currentloop = 1; currentloop <= totalloops; currentloop++)  
          {  
            
-            for (nestedcurrentloop = 1; nestedcurrentloop <= currentloop; nestedcurrentloop++)  
+            for (nestedcurrentloop = 5; nestedcurrentloop >= currentloop; nestedcurrentloop--)  
             {  
                Console.Write("*");  
             }  
