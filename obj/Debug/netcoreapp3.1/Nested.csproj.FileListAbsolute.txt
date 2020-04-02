@@ -1,0 +1,11 @@
+C:\Users\tilly\Documents\Swinburne\Anhs class\Nested\obj\Debug\netcoreapp3.1\Nested.csprojAssemblyReference.cache
+C:\Users\tilly\Documents\Swinburne\Anhs class\Nested\obj\Debug\netcoreapp3.1\Nested.AssemblyInfoInputs.cache
+C:\Users\tilly\Documents\Swinburne\Anhs class\Nested\obj\Debug\netcoreapp3.1\Nested.AssemblyInfo.cs
+C:\Users\tilly\Documents\Swinburne\Anhs class\Nested\bin\Debug\netcoreapp3.1\Nested.exe
+C:\Users\tilly\Documents\Swinburne\Anhs class\Nested\bin\Debug\netcoreapp3.1\Nested.deps.json
+C:\Users\tilly\Documents\Swinburne\Anhs class\Nested\bin\Debug\netcoreapp3.1\Nested.runtimeconfig.json
+C:\Users\tilly\Documents\Swinburne\Anhs class\Nested\bin\Debug\netcoreapp3.1\Nested.runtimeconfig.dev.json
+C:\Users\tilly\Documents\Swinburne\Anhs class\Nested\bin\Debug\netcoreapp3.1\Nested.dll
+C:\Users\tilly\Documents\Swinburne\Anhs class\Nested\bin\Debug\netcoreapp3.1\Nested.pdb
+C:\Users\tilly\Documents\Swinburne\Anhs class\Nested\obj\Debug\netcoreapp3.1\Nested.dll
+C:\Users\tilly\Documents\Swinburne\Anhs class\Nested\obj\Debug\netcoreapp3.1\Nested.pdb
