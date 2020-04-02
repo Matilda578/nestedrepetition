@@ -6,21 +6,18 @@ namespace Nested
     {
         static void Main(string[] args)
         {
-           int val = 5;  
-         int i, j, k ;  
-         for (i = 1; i <= val; i++)  
+           int totalloops = 5;  
+         int currentloop, nestedcurrentloop ;  
+         for (currentloop = 1; currentloop <= totalloops; currentloop++)  
          {  
-            for (j = 1; j <= val-i; j++)  
-            {  
-                 
-            }  
-            for (k = 1; k <= i; k++)  
+           
+            for (nestedcurrentloop = 1; nestedcurrentloop <= currentloop; nestedcurrentloop++)  
             {  
                Console.Write("*");  
             }  
             Console.WriteLine("");  
          }  
-         Console.ReadLine();  
+         
       }  
         }
     }
